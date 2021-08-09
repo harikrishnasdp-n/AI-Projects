@@ -1,4 +1,4 @@
-# AI-Projects
+# Everything AI
 Hi! This is my AI project repository. The individual projects have their own descriptions. 
 Currently I am working on two projects. 
 
